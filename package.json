@@ -1,11 +1,15 @@
 {
   "name": "sejawal-cli-simple-calculator",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+"repository":
+  {
+"type": "git",
+"url": "https://github.com/Sejawal77/simple-CLI-calculator/commit/2c041d720d6e8069bc923c9a5039137b986c911c"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +19,6 @@
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
-  }
+  },
+  "description": ""
 }
